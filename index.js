@@ -25,19 +25,25 @@ async function fetchJobs(company) {
 
 // fetch greenhouse jobs
 async function fetchGreenhouseJobs(company){
-  const allJobs = [];
+  try {
+    const allJobs = [];
 
-  const { data: { jobs } } = await axios.get(helpers.greenhouseUrl(company))
+    const { data: { jobs } } = await axios.get(helpers.greenhouseUrl(company))
 
-  jobs.forEach(job => {
-    allJobs.push(helpers.formatGreenhouseResponse(job))
-  })
+    jobs.forEach(job => {
+      allJobs.push(helpers.formatGreenhouseResponse(job))
+    })
 
-  return allJobs
+    return allJobs
+  }
+  catch (e) {
+    return []
+  }
 }
 
 // fetch lever jobs
 async function fetchLeverJobs(company){
+  try {
   const allJobs = [];
 
   const { data } = await axios.get(helpers.leverUrl(company));
@@ -47,6 +53,9 @@ async function fetchLeverJobs(company){
   })
 
   return allJobs;
+  } catch(e) {
+    return []
+  }
 }
 
 module.exports = async function main(company){

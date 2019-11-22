@@ -1,5 +1,5 @@
 module.exports = {
-  leverUrl: (company) => `https://api.lever.co/v0/postings/${company}?limit=1&mode=json`,
+  leverUrl: (company) => `https://api.lever.co/v0/postings/${company}?mode=json`,
   greenhouseUrl: (company) => `https://boards-api.greenhouse.io/v1/boards/${company}/jobs`,
   formatLeverResponse: (data) => {
     return {
