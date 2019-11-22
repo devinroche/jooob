@@ -16,7 +16,7 @@ Data will be formatted as such
 {
   ok: true,
   data: {
-    {companyName},
+    companyName,
     lever: [{ location, team, posted, text, hostedUrl, applyUrl }],
     greenhouse: [{ title, posted, location, url }]
   }
