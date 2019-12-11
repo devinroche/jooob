@@ -1,0 +1,1807 @@
+{
+  "1_and_1_hosting": {
+    "name": "1&1 Hosting",
+    "site": "https://www.ionos.com/",
+    "description": "1&1 Ionos, is a web hosting company that was founded in Germany in 1988."
+  },
+  "3d_cart": {
+    "name": "3d Cart",
+    "site": "3dcart.com",
+    "description": "3dcart is a privately held technology company that develops e-commerce software for businesses."
+  },
+  "acquia": {
+    "name": "Acquia",
+    "site": "acquia.com",
+    "description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences."
+  },
+  "acquisio": {
+    "name": "Acquisio",
+    "site": "https://www.acquisio.com/",
+    "description": "From search and social advertising to programmatic, our team of experts help you supercharge and simplify campaign management in one easy platform."
+  },
+  "act_on": {
+    "name": "Act On",
+    "site": "act-on.com",
+    "description": "Act-On marketing automation software helps you attract better prospects, nurture leads at scale, close opportunities faster, and prove ROI with analytics."
+  },
+  "action_network": {
+    "name": "Action Network",
+    "site": "actionnetwork.org",
+    "description": "Online organizing tools like you've never seen them before -- Fully featured. A gorgeous interface that's a joy to use. Build lists of activists and work with your allies online easily. And did we mention free to individuals and small groups? Sign up h..."
+  },
+  "active_demand": {
+    "name": "Active Demand",
+    "site": "activedemand.com",
+    "description": "The essential agency marketing automation tool for growing businesses. You have an awesome business but no marketing team. No problem. Market Automatically!"
+  },
+  "activecampaign": {
+    "name": "Activecampaign",
+    "site": "activecampaign.com",
+    "description": "Integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with sales automation."
+  },
+  "add_to_any": {
+    "name": "Add To Any",
+    "site": "addtoany.com",
+    "description": "AddToAny is a universal sharing platform founded by Pat Diven II that can be integrated into a website by use of a web widget or plugin."
+  },
+  "adform_advertiser": {
+    "name": "Adform Advertiser",
+    "site": "adform.com",
+    "description": "Adform is a global digital media advertising technology company."
+  },
+  "adobe_business_catalyst": {
+    "name": "Adobe Business Catalyst",
+    "site": "businesscatalyst.com",
+    "description": "BC is a hosted application for building and managing online businesses. Using our unified platform and without back-end coding, you can build everything from amazing websites to powerful online stores, beautiful brochure-ware sites to lead generation"
+  },
+  "adobe_connect": {
+    "name": "Adobe Connect",
+    "site": "https://www.adobe.com/products/adobeconnect.html",
+    "description": "Adobe Inc. is an American multinational computer software company headquartered in San Jose, California."
+  },
+  "adobe_dynamic_tag_management": {
+    "name": "Adobe Dynamic Tag Management",
+    "site": "www.adobe.com/Analytics/Tag_Management‎",
+    "description": null
+  },
+  "adobe_experience_manager": {
+    "name": "Adobe Experience Manager",
+    "site": "https://www.adobe.com/marketing/experience-manager.html",
+    "description": "Adobe Inc. is an American multinational computer software company headquartered in San Jose, California."
+  },
+  "adroll": {
+    "name": "AdRoll",
+    "site": "adroll.com",
+    "description": "With AdRoll's AI-driven marketing software, you can get sophisticated audience targeting, cross-channel engagement, advanced measurement and attribution, all in one place. Build a brand customers love, turn more visitors into customers, and grow custom..."
+  },
+  "airbrake": {
+    "name": "Airbrake",
+    "site": "airbrake.io",
+    "description": "Application monitoring software for your entire stack. Fix errors in minutes. Airbrake tells you in real-time what’s broken, where and why."
+  },
+  "akamai": {
+    "name": "Akamai",
+    "site": "akamai.com",
+    "description": "Akamai Technologies, Inc. is an American content delivery network, cybersecurity, and cloud service provider headquartered in Cambridge, Massachusetts, in the United States."
+  },
+  "akamai_dns": {
+    "name": "Akamai DNS",
+    "site": "https://www.akamai.com/us/en/products/security/fast-dns.jsp",
+    "description": "Akamai Technologies, Inc. is an American content delivery network, cybersecurity, and cloud service provider headquartered in Cambridge, Massachusetts, in the United States."
+  },
+  "alexa": {
+    "name": "Alexa",
+    "site": "alexa.com",
+    "description": "Alexa Internet, Inc. is an American web traffic analysis company based in San Francisco."
+  },
+  "algolia": {
+    "name": "Algolia",
+    "site": "algolia.com",
+    "description": "Algolia is a US startup company offering a web search product through a SaaS model."
+  },
+  "altocloud": {
+    "name": "Altocloud",
+    "site": "https://www.genesys.com/customer-experience/innovations/innovations-altocloud",
+    "description": "Genesys,, is a company that sells customer experience and call center technology to mid-sized and large businesses."
+  },
+  "amazon_associates": {
+    "name": "Amazon Associates",
+    "site": "https://affiliate-program.amazon.com/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "amazon_payments": {
+    "name": "Amazon Payments",
+    "site": "https://pay.amazon.com/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "amazon_s3": {
+    "name": "Amazon S3",
+    "site": "https://aws.amazon.com/s3/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "amazon_ses": {
+    "name": "Amazon Simple Email Service",
+    "site": "https://aws.amazon.com/ses/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "amcharts": {
+    "name": "amCharts",
+    "site": "amcharts.com",
+    "description": "JavaScript / HTML5 charts and maps data-viz libraries for web sites and applications. Fast and responsive. WordPress plugin available. Developed since 2006."
+  },
+  "amplitude": {
+    "name": "Amplitude",
+    "site": "amplitude.com",
+    "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products."
+  },
+  "android": {
+    "name": "Android",
+    "site": "androidcentral.com",
+    "description": "Your buyer’s guide for the best Android phones, deals, news, and reviews! Android Central covers smartphones, watches, tablets, ChromeOS devices, Google Home, and all compatible peripherals in this smart world we're living in. Read all this and more on..."
+  },
+  "apache": {
+    "name": "Apache",
+    "site": "apache.org",
+    "description": "The Apache Software Foundation /əˈpætʃi/ is an American non-profit corporation (classified as a 501 organization in the United States) to support Apache software projects, including the Apache HTTP Server."
+  },
+  "app_nexus": {
+    "name": "App Nexus",
+    "site": "appnexus.com",
+    "description": "AppNexus is a technology company that provides trading solutions and powers marketplaces for Internet advertising. Its open, unified, and powerful programmatic platform empowers customers to more effectively buy and sell media, allowing them to innovat..."
+  },
+  "appboy": {
+    "name": "Appboy",
+    "site": "https://www.braze.com/",
+    "description": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences."
+  },
+  "appcues": {
+    "name": "Appcues",
+    "site": "appcues.com",
+    "description": "Appcues—the Product-Led Growth Platform—makes it easy to deliver exceptional user experiences at scale."
+  },
+  "appdynamics": {
+    "name": "AppDynamics",
+    "site": "appdynamics.com",
+    "description": "AppDynamics is an application performance management and IT operations analytics company based in San Francisco."
+  },
+  "apteligent": {
+    "name": "Apteligent",
+    "site": "apteligent.com",
+    "description": "Apteligent, based in San Francisco, California, is a mobile application intelligence solution providing both tools and app performance insights for mobile developers and product managers and mobile ecosystem performance data."
+  },
+  "asp_net": {
+    "name": "ASP.Net",
+    "site": "aspnetzero.com",
+    "description": "ASP.NET Zero is a base solution to create new web applications with a modern UI and solid architecture. It saves your time by providing pre-built and working pages and a strong infrastructure."
+  },
+  "attraqt": {
+    "name": "Attraqt",
+    "site": "attraqt.com",
+    "description": "Trusted by over 300 of the world's leading brands. Discover how to extend your current ecommerce capabilities to improve shopper conversion."
+  },
+  "attribution": {
+    "name": "Attribution",
+    "site": "www.adobe.com/Marketing/Attribution‎",
+    "description": null
+  },
+  "authorizenet": {
+    "name": "Authorizenet",
+    "site": "authorize.net",
+    "description": "Authorize.net is a United States-based payment gateway service provider, allowing merchants to accept credit card and electronic check payments through their website and over an Internet Protocol connection."
+  },
+  "autopilot": {
+    "name": "Autopilot",
+    "site": "autopilothq.com",
+    "description": "Marketing Automation Software, Autopilot is simple and visual customer journey software. Put your marketing automation on Autopilot and get a free demo of our software."
+  },
+  "aweber": {
+    "name": "Aweber",
+    "site": "aweber.com",
+    "description": "Looking for affordable and easy to use email marketing and autoresponder tools? Click here to start your free email marketing trial with AWeber."
+  },
+  "aws_ec2": {
+    "name": "Amazon Web Services",
+    "site": "https://aws.amazon.com/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "aws_route_53": {
+    "name": "Route 53",
+    "site": "https://aws.amazon.com/route53/",
+    "description": "Amazon.com, Inc., is an American multinational technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  "bazaarvoice": {
+    "name": "Bazaarvoice",
+    "site": "bazaarvoice.com",
+    "description": "Bazaarvoice is a digital marketing company based in Austin, Texas."
+  },
+  "benchmarkemail": {
+    "name": "Benchmarkemail",
+    "site": "benchmarkemail.com",
+    "description": "Email Marketing Service to engage subscribers, nurture leads, send beautiful, responsive emails and track results."
+  },
+  "big_cartel": {
+    "name": "Big Cartel",
+    "site": "bigcartel.com",
+    "description": "Build a unique online store, sell your work, and run a creative business. Perfect for clothing designers, bands, jewelry makers, crafters, and other artists."
+  },
+  "bigcommerce": {
+    "name": "Bigcommerce",
+    "site": "bigcommerce.com",
+    "description": "BigCommerce is a privately held technology company and provides a SaaS ecommerce platform."
+  },
+  "bing_ads": {
+    "name": "Bing Ads",
+    "site": "https://bingads.microsoft.com",
+    "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington."
+  },
+  "bing_advertiser": {
+    "name": "Bing Advertiser",
+    "site": "https://bingads.microsoft.com",
+    "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington."
+  },
+  "bing_maps": {
+    "name": "Bing Maps",
+    "site": "https://www.bing.com/maps",
+    "description": "Bing helps you turn information into action, making it faster and easier to go from searching to doing."
+  },
+  "bloomreach": {
+    "name": "Bloomreach",
+    "site": "bloomreach.com",
+    "description": "Bloomreach Experience Manager - Developer Edition, formerly known as Hippo CMS is an open-source, dual licensed, Content Management System."
+  },
+  "bluehost_hosting": {
+    "name": "Bluehost Hosting",
+    "site": "https://www.bluehost.com/",
+    "description": "Bluehost is a web hosting company owned by Endurance International Group."
+  },
+  "braintree": {
+    "name": "Braintree",
+    "site": "braintreepayments.com",
+    "description": "Braintree, a division of PayPal, is a company based in Chicago that specializes in mobile and web payment systems for e-commerce companies."
+  },
+  "branch": {
+    "name": "Branch",
+    "site": "branch.io",
+    "description": "Branch is a mobile deep linking platform for app developers and marketers that enables link-based user experiences, ranging from smart app banners to native content sharing."
+  },
+  "brightcove": {
+    "name": "Brightcove",
+    "site": "brightcove.com",
+    "description": "Brightcove, Inc. is a Boston, Massachusetts–based software company that produces an online video platform."
+  },
+  "bronto": {
+    "name": "Bronto",
+    "site": "bronto.com",
+    "description": "Oracle Bronto provides a cloud-based commerce marketing automation platform to mid-market and enterprise organizations."
+  },
+  "bug_herd": {
+    "name": "Bug Herd",
+    "site": "bugherd.com",
+    "description": "BugHerd is the easiest way to collect, organise and act on client feedback. It's just like using a sticky-note on a webpage to collect visual feedback. Try BugHerd free for 14 days."
+  },
+  "bugsnag": {
+    "name": "Bugsnag",
+    "site": "bugsnag.com",
+    "description": "Bugsnag is error monitoring & reporting software with best-in-class functionality for mobile apps. Our tool alerts users of bugs, errors & more. Free trial!"
+  },
+  "c3_metrics": {
+    "name": "C3 Metrics",
+    "site": "https://c3metrics.com/",
+    "description": "Built by marketers, C3 Metrics is a global leader in cross-channel advertising measurement & accountability. Only C3 Metrics has the Attribution Data Cloud."
+  },
+  "calq": {
+    "name": "Calq",
+    "site": "calq.fr",
+    "description": "CALQ est une agence d’architecture française qui compte aujourd’hui près de 100 collaborateurs. Basée à Paris, l’agence conçoit et suit tous types d’opérations, neuves ou de restructuration, sur l’ensemble des secteurs d’activité : bureaux, hôtellerie,..."
+  },
+  "campaignmonitor": {
+    "name": "Campaignmonitor",
+    "site": "campaignmonitor.com",
+    "description": "Drive business with email marketing and automation. Gain loyal customers using powerful personalization, ecommerce, and customer journey tools."
+  },
+  "castle": {
+    "name": "Castle",
+    "site": "https://castle.io/",
+    "description": "A fully automated approach to account security that lets your good users shape the risk models."
+  },
+  "centos": {
+    "name": "CentOS",
+    "site": "centos.org",
+    "description": "The official voice of the CentOS project"
+  },
+  "chargify": {
+    "name": "Chargify",
+    "site": "chargify.com",
+    "description": "Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying your Subscription Billing today."
+  },
+  "chart_beat": {
+    "name": "Chart Beat",
+    "site": "chartbeat.com",
+    "description": "Improve audience engagement, inform editorial decisions, and increase readership. Chartbeat delivers real-time analytics, content intelligence, and transformative newsroom tools for digital media and publishing companies around the world."
+  },
+  "chartio": {
+    "name": "Chartio",
+    "site": "chartio.com",
+    "description": "Chartio’s cloud-based business intelligence and analytics solution enables everyone to analyze their data from their business applications."
+  },
+  "chatlio": {
+    "name": "Chatlio",
+    "site": "chatlio.com",
+    "description": "Chat with your website visitors directly from Slack. You don’t need another chat client to talk to your customers.  Simple one minute install."
+  },
+  "chownow": {
+    "name": "Chownow",
+    "site": "https://get.chownow.com/",
+    "description": "ChowNow is an online food ordering platform that connects customers with local restaurants."
+  },
+  "classy": {
+    "name": "Classy",
+    "site": "classy.org",
+    "description": "Classy is a software company and online fundraising platform designed for nonprofit organizations."
+  },
+  "clickfunnels": {
+    "name": "ClickFunnels",
+    "site": "clickfunnels.com",
+    "description": "ClickFunnels Gives You EVERYTHING You Need To Market, Sell, and Deliver Your Products and Services Online! Without having to hire or rely on a tech team!"
+  },
+  "clicktale": {
+    "name": "Clicktale",
+    "site": "clicktale.com",
+    "description": "Clicktale taps into the wisdom and behavior of millions of visitors so that businesses can deliver the best digital experiences and drive amazing business results. Complex behavioral patterns are synthesized based on millisecond-level actions such as h..."
+  },
+  "clicky": {
+    "name": "Clicky",
+    "site": "clicky.com",
+    "description": "Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time."
+  },
+  "cloud_flare": {
+    "name": "Cloud Flare",
+    "site": "cloudflare.com",
+    "description": "Cloudflare, Inc. is an American web infrastructure and website security company, providing content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services."
+  },
+  "cloudinary": {
+    "name": "Cloudinary",
+    "site": "cloudinary.com",
+    "description": "Streamline media management and improve user experience by automatically delivering images and videos, enhanced and optimized for every user."
+  },
+  "cludo": {
+    "name": "Cludo",
+    "site": "cludo.com",
+    "description": "Cludo is a groundbreaking site search platform designed to help your website and marketing teams create a spectacular visitor experience."
+  },
+  "commerce_sciences": {
+    "name": "Commerce Sciences",
+    "site": "https://www.taboola.com/",
+    "description": "Taboola is a private advertising company headquartered in New York City."
+  },
+  "confluence": {
+    "name": "Confluence",
+    "site": "https://www.atlassian.com/software/confluence",
+    "description": "Atlassian Corporation Plc is an Australian enterprise software company that develops products for software developers, project managers, and content management."
+  },
+  "constant_contact": {
+    "name": "Constant Contact",
+    "site": "constantcontact.com",
+    "description": "Constant Contact, Inc. is an online marketing company, headquartered in Waltham, Massachusetts, with additional offices in Loveland, Colorado; and New York, New York."
+  },
+  "contentful": {
+    "name": "Contentful",
+    "site": "contentful.com",
+    "description": "Beyond headless CMS, Contentful is the essential API-first content management infrastructure to create, manage and distribute content to any platform or device."
+  },
+  "contently": {
+    "name": "Contently",
+    "site": "contently.com",
+    "description": "The highest-rated content marketing solution: expert content strategy, an enterprise content marketing platform, and a global content creator network."
+  },
+  "conversio": {
+    "name": "Conversio",
+    "site": "https://www.campaignmonitor.com/products/cm-commerce/",
+    "description": "Drive business with email marketing and automation. Gain loyal customers using powerful personalization, ecommerce, and customer journey tools."
+  },
+  "convert_kit": {
+    "name": "Convert Kit",
+    "site": "convertkit.com",
+    "description": "Get the email marketing tools and automation you need to grow your blog and business. Join 25,000+ creators and try ConvertKit today."
+  },
+  "convio": {
+    "name": "Convio",
+    "site": "convio.com",
+    "description": "World's best Fundraising, P2P, Marketing, Advocacy and CRM Software for NonProfits - Online Fundraising, Donor Management & Database, Email Marketing, Advocacy, Peer to peer. Convio + Blackbaud Raiser's Edge Integration."
+  },
+  "coveo": {
+    "name": "Coveo",
+    "site": "coveo.com",
+    "description": "Coveo uses AI to personalize millions of digital experiences for every single one of your customers, dealers, partners and employees."
+  },
+  "crazy_egg": {
+    "name": "Crazy Egg",
+    "site": "crazyegg.com",
+    "description": "Use Crazy Egg to see what’s hot and what’s not, and to know what your web visitors are doing with tools, such as heatmaps, recordings, A/B testing & more."
+  },
+  "criteo": {
+    "name": "Criteo",
+    "site": "criteo.com",
+    "description": "Criteo is a personalized retargeting company that works with Internet retailers to serve personalized online display advertisements to consumers who have previously visited the advertiser's website."
+  },
+  "crowdskout": {
+    "name": "Crowdskout",
+    "site": "crowdskout.com",
+    "description": "Crowdskout is a data and analytics platform that brings all of your data into one central location, allowing for better decision making and marketing action in your organization. Built for businesses, campaigns, nonprofits, and publishers, Crowdskout a..."
+  },
+  "customer_io": {
+    "name": "Customer.io",
+    "site": "customer.io",
+    "description": "Trigger email, push, SMS, webhooks, and more with Customer.io. Gain control over behaviorial data to personalize customer communication and drive engagement. Start free."
+  },
+  "dailymotion": {
+    "name": "Dailymotion",
+    "site": "dailymotion.com",
+    "description": "Dailymotion is a French video-sharing technology platform primarily owned by Vivendi."
+  },
+  "debian": {
+    "name": "Debian",
+    "site": "debian.org",
+    "description": "The Debian Project is building a free operating system. Why not run it on your computer?"
+  },
+  "demandbase": {
+    "name": "Demandbase",
+    "site": "demandbase.com",
+    "description": "The Leading ABM Software for Mid-Market & Enterprise B2B Companies. Learn more about the true end-to-end account based marketing company."
+  },
+  "digital_ocean": {
+    "name": "Digital Ocean",
+    "site": "digitalocean.com",
+    "description": "DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide."
+  },
+  "disqus": {
+    "name": "Disqus",
+    "site": "disqus.com",
+    "description": "Disqus is a worldwide blog comment hosting service for web sites and online communities that use a networked platform."
+  },
+  "django": {
+    "name": "Django",
+    "site": "djangoproject.com",
+    "description": "A high-level Python Web framework that encourages rapid development and clean, pragmatic design. Tweets by Django Software Foundation and @jezdez"
+  },
+  "dns_made_easy": {
+    "name": "DNS Made Easy",
+    "site": "dnsmadeeasy.com",
+    "description": "DNS Made Easy offers affordable DNS management services that are easy to manage and blazingly fast. Get set up in minutes and enjoy the fastest and most reliable managed DNS in the industry. "
+  },
+  "dotmailer": {
+    "name": "Dotmailer",
+    "site": "https://dotdigital.com/",
+    "description": "dotdigital is an online marketing company listed on the Alternative Investment Market of the London Stock Exchange as dotdigital Group PLC."
+  },
+  "dreamhost_hosting": {
+    "name": "DreamHost Hosting",
+    "site": "dreamhost.com",
+    "description": "DreamHost is a Los Angeles-based web hosting provider and domain name registrar."
+  },
+  "drift": {
+    "name": "Drift",
+    "site": "drift.com",
+    "description": "Drift is the new way businesses buy from businesses. Try our conversational marketing & sales tools designed to make buying easier today, totally free."
+  },
+  "drip": {
+    "name": "Drip",
+    "site": "drip.com",
+    "description": "Drip is the first ECRM–an Ecommerce CRM designed for building personal and profitable relationships with your customers at scale."
+  },
+  "drupal": {
+    "name": "Drupal",
+    "site": "drupal.org",
+    "description": "The Drupal Association is an educational non-profit organization that tasks itself with fostering and supporting the Drupal software project, the community and its growth."
+  },
+  "dwolla": {
+    "name": "Dwolla",
+    "site": "dwolla.com",
+    "description": "Dwolla /dəˈwɑːlə/ is a United States-only e-commerce company that provides an online payment system and mobile payments network."
+  },
+  "dyn_dns": {
+    "name": "Dyn DNS",
+    "site": "dyn.com",
+    "description": "Dyn, Inc. is an Internet performance management and web application security company, offering products to monitor, control, and optimize online infrastructure, and also domain registration services and email products."
+  },
+  "dynamic_yield": {
+    "name": "Dynamic Yield",
+    "site": "dynamicyield.com",
+    "description": "Dynamic Yield is a technology company that personalizes customer experiences."
+  },
+  "dynatrace": {
+    "name": "Dynatrace",
+    "site": "dynatrace.com",
+    "description": "Dynatrace is a software intelligence company providing application performance management, artificial intelligence for operations, cloud infrastructure monitoring, and digital experience management, with products for the information technology departme..."
+  },
+  "ecwid": {
+    "name": "Ecwid",
+    "site": "ecwid.com",
+    "description": "Ecwid E-commerce Shopping Cart is Fast and Easy to Use! Set up an Online Store for WordPress, Drupal, Facebook and Much More! Start Selling Now with Ecwid."
+  },
+  "elasticemail": {
+    "name": "ElasticEmail",
+    "site": "elasticemail.com",
+    "description": "All the Email marketing and delivery tools you need to communicate with your customers.    No monthly commitments, no minimums, no limits. Just pay for what you use!"
+  },
+  "elevio": {
+    "name": "Elevio",
+    "site": "elev.io",
+    "description": "Used by Fortune 500 companies right through to small SaaS sites, elevio helps you increase user engagement and loyalty, while dropping support costs."
+  },
+  "eloqua": {
+    "name": "Eloqua",
+    "site": "https://www.oracle.com/marketingcloud/products/marketing-automation/",
+    "description": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California."
+  },
+  "emarsys": {
+    "name": "Emarsys",
+    "site": "emarsys.com",
+    "description": "Emarsys, a leading provider of marketing software, enables true, one-to-one interactions between marketers and consumers."
+  },
+  "ember": {
+    "name": "Ember",
+    "site": "emberjs.com",
+    "description": "Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast."
+  },
+  "emma": {
+    "name": "Emma",
+    "site": "myemma.com",
+    "description": "Design and optimize targeted email marketing campaigns. Emma’s digital marketing platform drives results with personalization, segmentation and automation."
+  },
+  "engagio": {
+    "name": "Engagio",
+    "site": "engagio.com",
+    "description": "Engagio is an American software company based in San Mateo, California."
+  },
+  "errorception": {
+    "name": "Errorception",
+    "site": "errorception.com",
+    "description": "Painless JavaScript Error Tracking. Created by @rakesh314."
+  },
+  "express": {
+    "name": "Express",
+    "site": "expressjs.com",
+    "description": null
+  },
+  "facebook_advertiser": {
+    "name": "Facebook Advertiser",
+    "site": "https://www.facebook.com/business/ads",
+    "description": "Our mission is to give people the power to build community and bring the world closer together."
+  },
+  "fedora": {
+    "name": "Fedora",
+    "site": "getfedora.org",
+    "description": "\" The project also oversees Extra Packages for Enterprise Linux, a special interest group which maintains the eponymous packages."
+  },
+  "flowplayer": {
+    "name": "Flowplayer",
+    "site": "flowplayer.com",
+    "description": "A video platform focusing on user experience and performance"
+  },
+  "formstack": {
+    "name": "Formstack",
+    "site": "formstack.com",
+    "description": "Formstack is a data management system that helps users collect information through various types of online forms, including surveys, job applications, event registrations, and payment forms."
+  },
+  "freebsd": {
+    "name": "FreeBSD",
+    "site": "freebsd.org",
+    "description": "The Power to Serve"
+  },
+  "freshdesk": {
+    "name": "Freshdesk",
+    "site": "freshdesk.com",
+    "description": "An online cloud-based customer service software providing helpdesk support with all smart automations to get things done faster. Sign up for a free trial today!"
+  },
+  "fullcontact": {
+    "name": "Fullcontact",
+    "site": "fullcontact.com",
+    "description": "FullContact Inc. FullContact received considerable press in July 2012 when it announced a \"Paid Paid Vacation\" policy."
+  },
+  "fullstory": {
+    "name": "Fullstory",
+    "site": "fullstory.com",
+    "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more."
+  },
+  "fusioncharts": {
+    "name": "FusionCharts",
+    "site": "fusioncharts.com",
+    "description": "FusionCharts, part of InfoSoft Global Ltd, is privately held software provider of data visualization products with offices in Bangalore and Kolkata, India."
+  },
+  "gauges": {
+    "name": "Gauges",
+    "site": "https://get.gaug.es/",
+    "description": "Track your customers' web and mobile activity, and more, all in one place with real-time web analytics and make better marketing decisions with one of the best marketing attribution software! Analyze and take action."
+  },
+  "get_response": {
+    "name": "Get Response",
+    "site": "getresponse.com",
+    "description": "Email marketing from GetResponse. Send email newsletters, campaigns, online surveys and follow-up autoresponders. Simple, easy interface. FREE sign up."
+  },
+  "get_satisfaction": {
+    "name": "Get Satisfaction",
+    "site": "getsatisfaction.com",
+    "description": "Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community."
+  },
+  "go_squared": {
+    "name": "Go Squared",
+    "site": "gosquaredaway.com",
+    "description": "Military spouses who are your trusted assistants. We help CEOs, VCs, executives, and startup teams get their time back. US-based.  https://t.co/h9lkWGvWlL"
+  },
+  "gocardless": {
+    "name": "Gocardless",
+    "site": "gocardless.com",
+    "description": "GoCardless is the easy way to collect Direct Debit. Already serving more than 50,000 businesses, perfect for recurring billing and B2B invoicing."
+  },
+  "godaddy_hosting": {
+    "name": "GoDaddy Hosting",
+    "site": "https://www.godaddy.com/hosting",
+    "description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company, headquartered in Scottsdale, Arizona, and incorporated in Delaware."
+  },
+  "godaddy_nameserver": {
+    "name": "Godaddy Nameserver",
+    "site": "https://www.godaddy.com/hosting",
+    "description": "GoDaddy Inc. is an American publicly traded Internet domain registrar and web hosting company, headquartered in Scottsdale, Arizona, and incorporated in Delaware."
+  },
+  "google_adsense": {
+    "name": "Google Adsense",
+    "site": "https://www.google.com/adsense/start/",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_adwords": {
+    "name": "Google Adwords",
+    "site": "https://ads.google.com/home/",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_analytics": {
+    "name": "Google Analytics",
+    "site": "analytics.google.com",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_cloud": {
+    "name": "Google Cloud",
+    "site": "cloud.google.com",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_forms": {
+    "name": "Google Forms",
+    "site": "https://www.google.com/forms/about/",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_maps": {
+    "name": "Google Maps",
+    "site": "maps.google.com",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "google_places": {
+    "name": "Google_places",
+    "site": "https://www.google.com/business/",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "graphiq": {
+    "name": "GraphIQ",
+    "site": "graphiq.com",
+    "description": "Graphiq is a semantic technology company that uses artificial intelligence to rapidly create interactive data-driven infographics."
+  },
+  "gravity_forms": {
+    "name": "Gravity Forms",
+    "site": "gravityforms.com",
+    "description": "Create custom forms on WordPress with Gravity Forms, the easiest-to-use, secure, and reliable WordPress form builder plugin for your website."
+  },
+  "greenhouse": {
+    "name": "Greenhouse",
+    "site": "greenhouse.io",
+    "description": "Greenhouse Software is an American technology company headquartered in New York City that provides a recruiting software as a service."
+  },
+  "groupby": {
+    "name": "GroupBy",
+    "site": "groupbyinc.com",
+    "description": "We create the world's most relevant & highly converting site experience, maximizing revenue through eCommerce channels requiring less effort/cost to build & run"
+  },
+  "heap": {
+    "name": "Heap",
+    "site": "heap.io",
+    "description": "Heap is a smarter way to do Product Analytics, giving PMs autocaptured, actionable customer data for true product innovation."
+  },
+  "hello_bar": {
+    "name": "Hello Bar",
+    "site": "hellobar.com",
+    "description": "The Hello Bar is a notification bar that draws web users to an important call to action on your website."
+  },
+  "help_scout": {
+    "name": "Help Scout",
+    "site": "helpscout.com",
+    "description": "Help Scout, formerly known as Brightwurks, is a help desk software company headquartered in Boston, Massachusetts."
+  },
+  "heroku": {
+    "name": "Heroku",
+    "site": "heroku.com",
+    "description": "Heroku is a cloud platform as a service supporting several programming languages."
+  },
+  "highcharts": {
+    "name": "Highcharts",
+    "site": "highcharts.com",
+    "description": "Highcharts - Interactive JavaScript charts for your web pages."
+  },
+  "hotjar": {
+    "name": "Hotjar",
+    "site": "hotjar.com",
+    "description": "See how visitors are really using your website, collect user feedback and turn more visitors into customers."
+  },
+  "hoverowl": {
+    "name": "Hoverowl",
+    "site": "hoverowl.com",
+    "description": "Know more about your visitors, their location, pages they visited, actions they took and even exactly why they didn't buy! Start increasing your sales."
+  },
+  "hubspot": {
+    "name": "HubSpot",
+    "site": "hubspot.com",
+    "description": "HubSpot is a developer and marketer of software products for inbound marketing and sales."
+  },
+  "icims": {
+    "name": "Icims",
+    "site": "icims.com",
+    "description": "iCIMS software allows your company to identify and hire the most qualified candidates with its best-in-class talent acquisition platform. Learn more here."
+  },
+  "indicative": {
+    "name": "Indicative",
+    "site": "indicative.com",
+    "description": "Growth marketers, product managers, and data analysts use Indicative to optimize customer conversion, engagement, and retention."
+  },
+  "influitive": {
+    "name": "Influitive",
+    "site": "influitive.com",
+    "description": "Influitive helps companies mobilize their advocates to provide more referral leads, reference calls, social media advocacy, product reviews and more."
+  },
+  "infusionsoft": {
+    "name": "Infusionsoft",
+    "site": "keap.com",
+    "description": "Keap is a private company that offers an e-mail marketing and sales platform for small businesses, including products to manage and optimize the customer lifecycle, customer relationship management, marketing automation, lead capture, and e-commerce."
+  },
+  "inside_sales": {
+    "name": "Inside Sales",
+    "site": "insidesalesbox.com",
+    "description": "Inside Sales Box is an all-in-one inside sales software to help businesses - big & small - manage, accelerate and engage their inside sales processes. Built by inside sales experts for inside sales teams, Inside Sales Box is a lead management platform ..."
+  },
+  "inspectlet": {
+    "name": "Inspectlet",
+    "site": "inspectlet.com",
+    "description": "Inspectlet records videos of your site visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors use your site again. "
+  },
+  "instagram": {
+    "name": "Instagram",
+    "site": "instagram.com",
+    "description": "Strengthening relationships through shared experiences"
+  },
+  "instart_logic": {
+    "name": "Instart Logic",
+    "site": "instart.com",
+    "description": "Instart is an American multinational computer technology corporation, headquartered in Palo Alto, California."
+  },
+  "intense_debate": {
+    "name": "Intense Debate",
+    "site": "intensedebate.com",
+    "description": "IntenseDebate's comment system enhances and encourages conversation on your blog or website."
+  },
+  "intercom": {
+    "name": "Intercom",
+    "site": "intercom.com",
+    "description": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again."
+  },
+  "iterable": {
+    "name": "Iterable",
+    "site": "iterable.com",
+    "description": "Iterable empowers growth marketers to create world-class user engagement campaigns throughout the full lifecycle, and across all channels. Marketers segment users, build workflows, automate touchpoints, and test strategies at scale without engineering ..."
+  },
+  "jabmo": {
+    "name": "Jabmo",
+    "site": "jabmo.com",
+    "description": "Forrester Research finds Jabmo is leading platform for account-based marketing (ABM) and best for industrial manufacturers."
+  },
+  "java": {
+    "name": "Java",
+    "site": "java.com",
+    "description": "Java is a set of computer software and specifications developed by James Gosling at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform co..."
+  },
+  "jobvite": {
+    "name": "Jobvite",
+    "site": "jobvite.com",
+    "description": "Jobvite Inc. is a San Mateo, California and Indianapolis, Indiana software and recruiting corporation."
+  },
+  "joomla": {
+    "name": "Joomla",
+    "site": "joomla.org",
+    "description": "Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source."
+  },
+  "justuno": {
+    "name": "Justuno",
+    "site": "justuno.com",
+    "description": "Built for the professional marketer, our comprehensive suite of integrated marketing tools will upgrade the way you leverage your site traffic."
+  },
+  "jw_player": {
+    "name": "Jw Player",
+    "site": "jwplayer.com",
+    "description": "JW Player is a New York based company that has developed a video player software of the same name."
+  },
+  "kaltura": {
+    "name": "Kaltura",
+    "site": "kaltura.com",
+    "description": "Kaltura is the leading video platform powering any video experience for any organization. Kaltura's video platform and video APIs serve as the backbone for our out-of-the-box video products, including our Video Portal, Webcasting, Lecture Capture, Vide..."
+  },
+  "kapost": {
+    "name": "Kapost",
+    "site": "kapost.com",
+    "description": "Kapost provides content operations software and services to unite revenue teams and align the customer journey. Learn about our content marketing platform."
+  },
+  "keen_io": {
+    "name": "Keen IO",
+    "site": "keen.io",
+    "description": "Keen is the platform for developers that lets you ship custom user-facing metrics quickly and seamlessly with low overhead."
+  },
+  "kiss_metrics": {
+    "name": "Kissmetrics",
+    "site": "kissmetrics.com",
+    "description": "Get, keep and grow more customers with Customer Engagement Automation by Kissmetrics. Behavioral analytics, segmentation and email campaign automation all in one place. Deeply understand and uniquely engage each customer from prospect to advocate. Buil..."
+  },
+  "klaviyo": {
+    "name": "Klaviyo",
+    "site": "klaviyo.com",
+    "description": "Klaviyo is a growth marketing platform created for online businesses — featuring powerful marketing automation and a revenue-driving email platform. Klaviyo helps brands understand their customers and build unlimited, real, quality relationships."
+  },
+  "knowtify": {
+    "name": "Knowtify",
+    "site": "knowtify.io",
+    "description": "Activate. Retain. Engage. Drive lifetime customer loyalty with the first #EngagementMarketing platform. A @techstars company."
+  },
+  "lead_dyno": {
+    "name": "Lead Dyno",
+    "site": "leaddyno.com",
+    "description": "We created LeadDyno because we wanted easy affiliate management system for ourselves, and for our affiliates who help us sell our product and promote our website."
+  },
+  "lever": {
+    "name": "Lever",
+    "site": "lever.co",
+    "description": "Lever is a US-based software company headquartered in San Francisco, California that provides an applicant tracking system for hiring."
+  },
+  "lightspeed": {
+    "name": "Lightspeed",
+    "site": "lightspeedhq.com",
+    "description": "Lightspeed is a point-of-sale and e-commerce software provider based in Montreal, Quebec, Canada."
+  },
+  "linked_in_advertiser": {
+    "name": "LinkedIn Advertiser",
+    "site": "https://www.linkedin.com",
+    "description": "LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps."
+  },
+  "linkwithin": {
+    "name": "Linkwithin",
+    "site": "http://www.linkwithin.com/learn",
+    "description": null
+  },
+  "linode_hosting": {
+    "name": "Linode Hosting",
+    "site": "linode.com",
+    "description": "Linode, LLC, an American privately-owned company, provides virtual private servers."
+  },
+  "live_chat": {
+    "name": "Live Chat",
+    "site": "livechatinc.com",
+    "description": "The company is one of the key players in the market and has offices in Wrocław, Poland and Boston, Massachusetts, United States."
+  },
+  "livefyre": {
+    "name": "Livefyre",
+    "site": "livefyre.com",
+    "description": "Enabling today's leading brands to redefine online social experiences. Tweets from the team crafting the real-time social media platform they know and love."
+  },
+  "liveramp": {
+    "name": "Liveramp",
+    "site": "liveramp.com",
+    "description": "LiveRamp Holdings, Inc., formerly known as Acxiom Corporation, is a San Francisco, California-based SaaS company that offers an identity resolution platform."
+  },
+  "lkqd": {
+    "name": "LKQD",
+    "site": "https://www.nexstardigital.com",
+    "description": "National scale with a local approach, Nexstar Digital businesses provide digital media solutions to local and national brands, advertisers, and publishers."
+  },
+  "localytics": {
+    "name": "Localytics",
+    "site": "localytics.com",
+    "description": "With our platform you get smarter analytics insights and mobile app marketing experiences that better engage your users. Check out a full list of features!"
+  },
+  "logrocket": {
+    "name": "Logrocket",
+    "site": "logrocket.com",
+    "description": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software."
+  },
+  "looker": {
+    "name": "Looker",
+    "site": "looker.com",
+    "description": "Looker is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily."
+  },
+  "lucky_orange": {
+    "name": "Lucky Orange",
+    "site": "www.luckyorange.com",
+    "description": "Lucky Orange will help you answer the question of why 99% of visitors that visit your site never turn into customers. It's one of those tools that will have you wondering how you ever lived without it."
+  },
+  "mad_kudu": {
+    "name": "Mad Kudu",
+    "site": "madkudu.com",
+    "description": "MadKudu's mission is to help sales and customer success teams know when a customer needs attention, either because they are at risk or because they are ready for an upsell.    Madkudu connects to existing applications (eg. CRM, web analytics, help desk..."
+  },
+  "madison_logic": {
+    "name": "Madison Logic",
+    "site": "madisonlogic.com",
+    "description": "Madison Logic is the global leader in Account Based Marketing.    Our B2B marketing technology platform, Activate ABM™, unifies targeted advertising and content syndication with attribution metrics to show measurable return on investment. As the only c..."
+  },
+  "magento": {
+    "name": "Magento",
+    "site": "magento.com",
+    "description": "Magento empowers thousands of retailers and brands with the best eCommerce platforms and flexible cloud solutions to rapidly innovate and grow."
+  },
+  "magento_enterprise": {
+    "name": "Magento Enterprise",
+    "site": "magento.com",
+    "description": "Magento empowers thousands of retailers and brands with the best eCommerce platforms and flexible cloud solutions to rapidly innovate and grow."
+  },
+  "magento_v1": {
+    "name": "Magento V1",
+    "site": "magento.com",
+    "description": "Magento empowers thousands of retailers and brands with the best eCommerce platforms and flexible cloud solutions to rapidly innovate and grow."
+  },
+  "magento_v2": {
+    "name": "Magento V2",
+    "site": "magento.com",
+    "description": "Magento empowers thousands of retailers and brands with the best eCommerce platforms and flexible cloud solutions to rapidly innovate and grow."
+  },
+  "mailchimp": {
+    "name": "Mailchimp",
+    "site": "mailchimp.com",
+    "description": "Mailchimp has email marketing, ads, landing pages, and CRM tools to grow your business on your terms. Get the word out with email, social ads, and make your life easier with automation. It's easy, and you can start for free."
+  },
+  "mailerlite": {
+    "name": "Mailer Lite",
+    "site": "mailerlite.com",
+    "description": "Create advanced email marketing campaigns with features like automation, landing pages and surveys. Get free access to premium features with a 14-day trial!"
+  },
+  "mailgun": {
+    "name": "Mailgun",
+    "site": "mailgun.com",
+    "description": "Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. Learn more today!"
+  },
+  "mailjet": {
+    "name": "Mailjet",
+    "site": "mailjet.com",
+    "description": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and powerful service."
+  },
+  "mandrill": {
+    "name": "Mandrill",
+    "site": "https://mandrill.com/",
+    "description": null
+  },
+  "marin": {
+    "name": "Marin",
+    "site": "https://www.marinsoftware.com",
+    "description": "Marin Software is an online advertising company headquartered in San Francisco."
+  },
+  "marketo": {
+    "name": "Marketo",
+    "site": "marketo.com",
+    "description": "Marketo, Inc. is an American software company, headquartered in San Mateo, CA."
+  },
+  "maxmind": {
+    "name": "Maxmind",
+    "site": "maxmind.com",
+    "description": "MaxMind is a leading provider of IP intelligence and online fraud prevention tools. Learn about GeoIP databases and services and minFraud services."
+  },
+  "microsoft_azure": {
+    "name": "Microsoft Azure",
+    "site": "https://azure.microsoft.com",
+    "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington."
+  },
+  "microsoft_office_365": {
+    "name": "Microsoft Office 365",
+    "site": "https://www.office.com",
+    "description": null
+  },
+  "mindbody": {
+    "name": "Mindbody",
+    "site": "mindbodyonline.com",
+    "description": "See how MINDBODY business management software serves gyms, spas and salons worldwide, and helps people find and book with them."
+  },
+  "mixpanel": {
+    "name": "Mixpanel",
+    "site": "mixpanel.com",
+    "description": "Get valuable customers insights to make smarter decisions and act faster based on how customers use your product or website with Mixpanel. Try it free."
+  },
+  "mode": {
+    "name": "Mode",
+    "site": "mode.com",
+    "description": "Mode is a collaborative data platform that combines SQL, R, Python, and visual analytics in one place. Connect, analyze, and share, faster."
+  },
+  "moonclerk": {
+    "name": "MoonClerk",
+    "site": "moonclerk.com",
+    "description": "You're just 5 minutes away from accepting recurring payments and one-time payments online. Explore for Free. No credit card required."
+  },
+  "mouseflow": {
+    "name": "Mouseflow",
+    "site": "mouseflow.com",
+    "description": "Mouseflow is the most popular session replay / recording and website heatmap tool. Sign up today or call +1 (855) 668-7335 for a personal demonstration!"
+  },
+  "mousestats": {
+    "name": "Mousestats",
+    "site": "mousestats.com",
+    "description": "The Most Professional User Experience Analysis Suite:   Website Visitor Recording, Comprehensive Heatmaps and Form Analytics."
+  },
+  "my_site_auditor": {
+    "name": "My Site Auditor",
+    "site": "mysiteauditor.com",
+    "description": "Try our free SEO audit tool and generate free SEO report audits or white-label SEO reports. Embed our website audit tool on your agency's site to get way more SEO leads."
+  },
+  "namecheap_dns": {
+    "name": "Namecheap Dns",
+    "site": "https://www.namecheap.com",
+    "description": "Namecheap, Inc. is an ICANN-accredited domain name registrar, which provides domain name registration and web hosting, based in Phoenix, Arizona."
+  },
+  "nation_builder": {
+    "name": "NationBuilder",
+    "site": "nationbuilder.com",
+    "description": "software for leaders"
+  },
+  "neustar_ad_advisor": {
+    "name": "Neustar Ad Advisor",
+    "site": "https://www.home.neustar/adadvisor",
+    "description": "Neustar is an information services and technology company and a leader in identity resolution providing the data and technology that enables trusted connections between companies and people at the moments that matter most."
+  },
+  "new_relic": {
+    "name": "New Relic",
+    "site": "newrelic.com",
+    "description": "New Relic is an American software analytics company based in San Francisco, California."
+  },
+  "nextable": {
+    "name": "Nextable",
+    "site": "home.nextable.com",
+    "description": null
+  },
+  "nginx": {
+    "name": "Nginx",
+    "site": "nginx.org",
+    "description": "News about nginx (engine x) - a high performance free open source web server powering busiest sites on the Internet. For NGINX Inc. news please check @nginx"
+  },
+  "nosto": {
+    "name": "Nosto",
+    "site": "nosto.com",
+    "description": "Use Powerful Personalization Made Easy on e-Commerce Platforms. Nosto generates an 10-30% Average Increase in Revenue."
+  },
+  "ns1": {
+    "name": "Ns1",
+    "site": "https://ns1.com/",
+    "description": "Simplify, unify and control application traffic across hybrid, distributed and complex infrastructure."
+  },
+  "olark": {
+    "name": "Olark",
+    "site": "olark.com",
+    "description": "Make you business human by using live chat software for sales, marketing and customer support on your website. Start talking to your customers today!"
+  },
+  "omniconvert": {
+    "name": "Omniconvert",
+    "site": "omniconvert.com",
+    "description": "Omniconvert is an award-winning conversion rate optimization (CRO) software that can be used for A/B testing, online surveys, traffic segmentation, web personalization and more"
+  },
+  "omniture_adobe_analytics": {
+    "name": "Omniture (Adobe Analytics)",
+    "site": "https://www.adobe.com/analytics/adobe-analytics.html",
+    "description": "Adobe Inc. is an American multinational computer software company headquartered in San Jose, California."
+  },
+  "ooyala": {
+    "name": "Ooyala",
+    "site": "ooyala.com",
+    "description": "Ooyala helps deliver content that connects. A US-based subsidiary of global telecommunications and IT services company Telstra, Ooyala's comprehensive suite of offerings includes one of the world's largest premium video platforms, a leading ad serving ..."
+  },
+  "open_table": {
+    "name": "Open Table",
+    "site": "opentable.com",
+    "description": "In 1999, the website began operations offering reservations at a limited selection of restaurants in San Francisco."
+  },
+  "optimizely": {
+    "name": "Optimizely",
+    "site": "optimizely.com",
+    "description": "Optimizely is an American company that makes customer experience optimization software for other companies."
+  },
+  "optimonk": {
+    "name": "Optimonk",
+    "site": "https://www.optimonk.com",
+    "description": "OptiMonk is an award-winning on-site message toolkit for eCommerce that helps small and medium-sized businesses turn their visitors into sales and leads."
+  },
+  "oscommerce": {
+    "name": "Oscommerce",
+    "site": "oscommerce.com",
+    "description": "osCommerce provides Open Source online shop e-commerce solutions backed by a large and active community network of store owners and developers who have made over 5,700 add-ons available for free."
+  },
+  "outbound": {
+    "name": "Outbound",
+    "site": "outboundengine.com",
+    "description": "We make businesses look great online & keep them in front of their networks to build stronger relationships, uncover new opportunities and drive referrals."
+  },
+  "outbrain_ads": {
+    "name": "Outbrain Ads",
+    "site": "https://www.outbrain.com",
+    "description": "Outbrain is a web advertising platform that displays boxes of links to pages within websites."
+  },
+  "outlook": {
+    "name": "Outlook",
+    "site": "https://www.office.com",
+    "description": null
+  },
+  "owneriq": {
+    "name": "ownerIQ",
+    "site": "owneriq.com",
+    "description": "ownerIQ is a media technology company that provides online advertising solutions and marketing channels for brands, retailers, and manufacturers."
+  },
+  "panopto": {
+    "name": "Panopto",
+    "site": "panopto.com",
+    "description": "Panopto is a software company that provides lecture recording, screencasting, video streaming, and video content management software, which is often used in E-learning environments."
+  },
+  "pardot": {
+    "name": "Pardot",
+    "site": "pardot.com",
+    "description": "Pardot offers powerful marketing automation to help marketing and sales teams find and nurture the best leads, close more deals, and maximize ROI."
+  },
+  "paypal": {
+    "name": "PayPal",
+    "site": "paypal.com",
+    "description": "PayPal Holdings Inc trading as PayPal, is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders."
+  },
+  "payza": {
+    "name": "Payza",
+    "site": "payza.com",
+    "description": "Payza is the award-winning international online payment platform of choice, globally renowned for excellence in usability, security and customer service, and recognized around the world for delivering international online payment processing to the glob..."
+  },
+  "percolate": {
+    "name": "Percolate",
+    "site": "percolate.com",
+    "description": "Percolate is the leading Content Marketing Platform for the world’s largest and fastest growing brands. Percolate offers solutions to manage marketing operations, from strategy and planning through development and execution."
+  },
+  "perfect_audience": {
+    "name": "Perfect Audience",
+    "site": "perfectaudience.com",
+    "description": "Bring all your retargeting advertising together into one powerful application. Setup takes minutes. See results immediately. Try it today!"
+  },
+  "periscope_data": {
+    "name": "Periscope Data",
+    "site": "periscopedata.com",
+    "description": "Periscope Data brings all your data together in a single platform and delivers SQL, Python, and R in one solution. Easily warehouse, analyze, visualize and share data from across your business."
+  },
+  "picreel": {
+    "name": "Picreel",
+    "site": "picreel.com",
+    "description": "Picreel exit offers help to increase conversion rate and recover up to 25% of all abandoning visitors for you to follow up and retarget."
+  },
+  "pingdom": {
+    "name": "Pingdom",
+    "site": "https://www.pingdom.com",
+    "description": "Pingdom AB is a Swedish website monitoring software as a service company launched in Stockholm and later acquired by the Austin, Texas-based SolarWinds."
+  },
+  "pinterest": {
+    "name": "Pinterest",
+    "site": "pinterest.com",
+    "description": "Pinterest, Inc. is an American social media web and mobile application company."
+  },
+  "pipedrive": {
+    "name": "Pipedrive",
+    "site": "pipedrive.com",
+    "description": "Pipedrive is a cloud-based sales software company with offices in Tallinn and Tartu, Estonia; New York City, New York; Lisbon, Portugal, London, United Kingdom and Prague, Czech Republic."
+  },
+  "piwik": {
+    "name": "Piwik",
+    "site": "piwik.pro",
+    "description": "Capture each customer touchpoint between Desktop, Mobile and Secure Member Areas while staying privacy compliant. Designed for data sensitive industries."
+  },
+  "playwire": {
+    "name": "Playwire",
+    "site": "playwire.com",
+    "description": "A Publisher First Company With The Best Complete Monetization Platform For Digital Media"
+  },
+  "postmark": {
+    "name": "Postmark",
+    "site": "postmarkapp.com",
+    "description": "Trusted by thousands of developers, Postmark is a fast and reliable transactional email service. Send with Postmark to ensure your transactional emails get to the inbox on time, every time."
+  },
+  "powerreviews": {
+    "name": "PowerReviews",
+    "site": "powerreviews.com",
+    "description": "PowerReviews enables connected commerce by amplifying user-generated content and consumer feedback to improve the customer experience."
+  },
+  "presta_shop": {
+    "name": "Presta Shop",
+    "site": "prestashop.com",
+    "description": "PrestaShop is a freemium, open source e-commerce solution."
+  },
+  "privy": {
+    "name": "Privy",
+    "site": "privy.com",
+    "description": "Jumpstart your ecommerce business growth. Capture more emails and easily convert first-time visitors into customers. Create your free account today!"
+  },
+  "qbrick": {
+    "name": "Qbrick",
+    "site": "qbrick.com",
+    "description": null
+  },
+  "qualaroo": {
+    "name": "Qualaroo",
+    "site": "qualaroo.com",
+    "description": "Qualaroo simplifies the process of conducting user research. Use Qualaroo to better understand your users at every phase of the design process."
+  },
+  "qualtrics": {
+    "name": "Qualtrics",
+    "site": "qualtrics.com",
+    "description": "Qualtrics is an experience management company, with co-headquarters in Provo, Utah and Seattle, Washington, in the United States."
+  },
+  "quantcast": {
+    "name": "Quantcast",
+    "site": "quantcast.com",
+    "description": "Quantcast is an American technology company, founded in 2006, that specializes in AI-driven real-time advertising, audience insights and measurement."
+  },
+  "qubit": {
+    "name": "Qubit",
+    "site": "https://www.qubit.com",
+    "description": "Personalization with Qubit delivers 1:1 ecommerce customer experiences. Deliver context, relevance & value helping visitors find the products they love."
+  },
+  "rackspace": {
+    "name": "Rackspace",
+    "site": "rackspace.com",
+    "description": "Rackspace Inc. The company's Rackspace Email division operates from Blacksburg, VA; other offices are located in Austin, Texas."
+  },
+  "rackspace_email": {
+    "name": "Rackspace Email",
+    "site": "rackspace.com",
+    "description": "Rackspace Inc. The company's Rackspace Email division operates from Blacksburg, VA; other offices are located in Austin, Texas."
+  },
+  "raygun": {
+    "name": "Raygun",
+    "site": "raygun.com",
+    "description": "Raygun gives you a window into how users are really experiencing your software applications. Detect, diagnose and resolve issues that are affecting end users with greater speed and accuracy."
+  },
+  "recaptcha": {
+    "name": "Recaptcha",
+    "site": "https://www.google.com/recaptcha/intro/v3.html",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  "recruiterbox": {
+    "name": "Recruiterbox",
+    "site": "recruiterbox.com",
+    "description": "Recruiterbox provides the best recruitment software that features numerous tools to make your hiring process productive. Learn more and get a free demo today."
+  },
+  "recurly": {
+    "name": "Recurly",
+    "site": "recurly.com",
+    "description": "Recurly provides enterprise-class subscription billing management for thousands of businesses worldwide."
+  },
+  "red_hat": {
+    "name": "Red Hat",
+    "site": "redhat.com",
+    "description": "Red Hat, Inc. is an American multinational software company providing open source software products to the enterprise community."
+  },
+  "resumator": {
+    "name": "Resumator",
+    "site": "https://www.jazzhr.com/",
+    "description": "JazzHR is a best in class Applicant Tracking System designed to streamline your hiring process, saving significant time & money."
+  },
+  "retailrocket": {
+    "name": "RetailRocket",
+    "site": "https://retailrocket.net/",
+    "description": "Plataforma multi-canal de Big Data, recuperación de clientes y personalización de tiendas online."
+  },
+  "rezdy": {
+    "name": "Rezdy",
+    "site": "rezdy.com",
+    "description": "The world’s leading independent online booking software for tours & attractions. Our booking system has everything you need to sell your tours & experiences"
+  },
+  "rezgo": {
+    "name": "Rezgo",
+    "site": "rezgo.com",
+    "description": "Rezgo has industry leading online booking, point of sale, mobilebooking, integrated payments, waivers, and more. See what Rezgo can do for your business."
+  },
+  "robly": {
+    "name": "Robly",
+    "site": "robly.com",
+    "description": "Robly is a leading innovator in Small Business Marketing Automation. Robly invented OpenGen in 2014 and Robly A.I. in 2015."
+  },
+  "rollbar": {
+    "name": "Rollbar",
+    "site": "rollbar.com",
+    "description": "Rollbar provides real-time error tracking & debugging tools for developers.  JavaScript, PHP, Ruby, Python, Node.js, Android, iOS, Apex & more languages supported.  "
+  },
+  "ruby_on_rails": {
+    "name": "Ruby On Rails",
+    "site": "rubyonrails.org",
+    "description": "Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License."
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "site": "salesforce.com",
+    "description": "Salesforce.com, Inc. is an American cloud computing company headquartered in San Francisco, California. Though its revenue comes from a customer relationship management product, Salesforce also sells commercial applications of social networking through..."
+  },
+  "salesloft": {
+    "name": "SalesLoft",
+    "site": "salesloft.com",
+    "description": "SalesLoft is the Sales Engagement Platform for modern sales organizations."
+  },
+  "salesmachine": {
+    "name": "Salesmachine",
+    "site": "salesmachine.io",
+    "description": "Salesmachine helps sales, product and customer success teams instantly convert more leads, accelerate adoption and reduce churn."
+  },
+  "salsa": {
+    "name": "Salsa",
+    "site": "salsalabs.com",
+    "description": "Explore Salsa's Powerful Nonprofit Software for Donor Management, Nonprofit Marketing, Online Fundraising, and Online Advocacy. "
+  },
+  "satismeter": {
+    "name": "Satismeter",
+    "site": "satismeter.com",
+    "description": "SatisMeter helps online businesses collect customer feedback using Net Promoter Score (NPS). Understand your customers, reduce churn and improve product!"
+  },
+  "segment": {
+    "name": "Segment",
+    "site": "segment.com",
+    "description": "Segment is the single platform that collects, translates, and routes your user data to hundreds of analytics & marketing tools with the flip of a switch."
+  },
+  "sendgrid": {
+    "name": "Sendgrid",
+    "site": "sendgrid.com",
+    "description": "SendGrid is a Denver, Colorado-based customer communication platform for transactional and marketing email."
+  },
+  "sendlane": {
+    "name": "Sendlane",
+    "site": "sendlane.com",
+    "description": "Beahavior-based email marketing automation built to help eCommerce stores turn their online shoppers into loyal, lifetime customers."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "site": "sentry.io",
+    "description": "Self-hosted and cloud-based error monitoring that helps software teams discover, triage, and prioritize errors in real-time."
+  },
+  "sessioncam": {
+    "name": "Sessioncam",
+    "site": "sessioncam.com",
+    "description": "SessionCam provides tools for session replay, heatmaps, funnels, form analytics, journey mapping, error reporting, struggle & anomaly detection"
+  },
+  "sharepoint": {
+    "name": "Sharepoint",
+    "site": "https://products.office.com/en-us/sharepoint/collaboration",
+    "description": null
+  },
+  "sharp_spring": {
+    "name": "Sharp Spring",
+    "site": "sharpspring.com",
+    "description": "SharpSpring marketing automation helps marketers drive more leads, convert more leads to sales, and optimize marketing ROI. Trusted by more than 2,000 agencies and 10,000 businesses, marketers around the world use SharpSpring because it's simple, affor..."
+  },
+  "shopify": {
+    "name": "Shopify",
+    "site": "shopify.com",
+    "description": "Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario."
+  },
+  "shopify_plus": {
+    "name": "Shopify Plus",
+    "site": "shopify.com",
+    "description": "Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario."
+  },
+  "shopware": {
+    "name": "Shopware",
+    "site": "shopware.com",
+    "description": "60.000 Kunden, 1200 Partner, über 2.500 Plugins – Mit Shopware hast Du endlich das Shopsystem gefunden, das Du immer gesucht hast. www.shopware.com "
+  },
+  "sidecar": {
+    "name": "Sidecar",
+    "site": "https://hello.getsidecar.com/",
+    "description": "Sidecar is the only fully programmatic advertising technology that helps retailers get optimal results in Product Listing Ad channels like Google Shopping, Facebook Dynamic Ads, and Bing Shopping.     Retailers that use Sidecar's machine learning bid m..."
+  },
+  "silkroad": {
+    "name": "Silkroad",
+    "site": "https://silkroadtechnology.com/",
+    "description": "Onboarding software from SilkRoad Technology gives you the ability to keep employees engaged. Learn how we can optimize your employee's experience today."
+  },
+  "simplicant": {
+    "name": "Simplicant",
+    "site": "simplicant.com",
+    "description": "Simplicant's modern applicant tracking platform and recruiting software helps companies source and interview better, evaluate faster and hire great talent."
+  },
+  "sixsense": {
+    "name": "6sense",
+    "site": "https://6sense.com/",
+    "description": "Uncover, prioritize and engage with demand on the 6sense Account Based Orchestration Platform, powered by AI."
+  },
+  "sizmek": {
+    "name": "Sizmek",
+    "site": "sizmek.com",
+    "description": "Sizmek creates impressions that inspire through its people-based creative optimization platform. In the digital world, creating impressions that inspire is vital to building meaningful, long-lasting relationships with your customers. Sizmek provides po..."
+  },
+  "slack": {
+    "name": "Slack",
+    "site": "slack.com",
+    "description": "Slack Technologies, Inc. is an American software company founded in 2009 in Vancouver, British Columbia, Canada."
+  },
+  "smartlook": {
+    "name": "Smartlook",
+    "site": "smartlook.com",
+    "description": "Analyze user behavior in ways never possible before. Smartlook works on websites & mobile apps. Find useful information in no time. Start a free trial now"
+  },
+  "smileio": {
+    "name": "Smile",
+    "site": "https://smile.io/",
+    "description": "Increase retention and boost customer engagement with an easy to use loyalty program built for small businesses"
+  },
+  "snowplow_analytics": {
+    "name": "Snowplow Analytics",
+    "site": "snowplowanalytics.com",
+    "description": "Snowplow is for companies who want to manage and control the collection and warehousing of their event-level data across all their platforms, in real-time."
+  },
+  "sociomantic": {
+    "name": "Sociomantic",
+    "site": "sociomantic.com",
+    "description": "Sociomantic Labs, a dunnhumby company, helps the world’s top advertisers grow reach and increase customer loyalty with programmatic solutions for online, mobile web and in-app display advertising."
+  },
+  "socket_io": {
+    "name": "Socket.io",
+    "site": "socket.io",
+    "description": "SOCKET.IO 2.0 IS HERE     FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE                            ~/Projects/tweets/index.js                                  var io = require('"
+  },
+  "softlayer_hosting": {
+    "name": "Softlayer Hosting",
+    "site": "https://www.ibm.com/cloud",
+    "description": "The International Business Machines Corporation is an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries."
+  },
+  "speedcurve": {
+    "name": "SpeedCurve",
+    "site": "speedcurve.com",
+    "description": "Monitor front-end performance. Beat the competition. Get continuous feedback on how your front-end code affects the performance of your site. #webperf #UX"
+  },
+  "squarespace": {
+    "name": "Squarespace",
+    "site": "squarespace.com",
+    "description": "Squarespace is a private American company, based in New York City, that provides software as a service for website building and hosting."
+  },
+  "steel_house": {
+    "name": "SteelHouse",
+    "site": "steelhouse.com",
+    "description": "Drive new visitors to your site and bring them back to convert across display, mobile, social, and Connected TV — all from a single self-serve online advertising platform."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "site": "stripe.com",
+    "description": "Stripe is an American technology company based in San Francisco, California."
+  },
+  "success_factors": {
+    "name": "Success Factors",
+    "site": "successfactors.com",
+    "description": "SAP SuccessFactors is an American multinational company headquartered in South San Francisco, California, providing cloud-based software for human capital management using the Software as a service model."
+  },
+  "survey_monkey": {
+    "name": "Survey Monkey",
+    "site": "surveymonkey.com",
+    "description": "SurveyMonkey is an online survey development cloud-based software as a service company."
+  },
+  "swell_rewards": {
+    "name": "Swell Rewards",
+    "site": "swellrewards.com",
+    "description": "Build customized loyalty & referral programs with Incentive Marketing platform, Swell Rewards to engage existing customers and reach new ones."
+  },
+  "swifttype": {
+    "name": "Swifttype",
+    "site": "https://swiftype.com/",
+    "description": "Swiftype is a cloud-based search platform that provides all the tools you need to create fantastic search experiences."
+  },
+  "tableau": {
+    "name": "Tableau",
+    "site": "tableau.com",
+    "description": "Tableau Software is an American interactive data visualization software company founded in January 2003 by Christian Chabot, Pat Hanrahan and Chris Stolte, in Mountain View, California."
+  },
+  "taboola_ads": {
+    "name": "Taboola Ads",
+    "site": "https://www.taboola.com/",
+    "description": "Taboola is a private advertising company headquartered in New York City."
+  },
+  "taleo": {
+    "name": "Taleo",
+    "site": "https://www.oracle.com/applications/taleo.html",
+    "description": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California."
+  },
+  "talkable": {
+    "name": "Talkable",
+    "site": "talkable.com",
+    "description": "Talkable enables e-commerce companies to easily launch referral marketing programs"
+  },
+  "tawk": {
+    "name": "Tawk",
+    "site": "tawk.to",
+    "description": "tawk.to is free live chat software to monitor and chat with visitors on your website or from a free customizable page."
+  },
+  "tealium": {
+    "name": "Tealium",
+    "site": "tealium.com",
+    "description": "Tealium is a US American company founded in 2008 in San Diego, California that sells enterprise tag management system and marketing software."
+  },
+  "terminus": {
+    "name": "Terminus",
+    "site": "terminus.com",
+    "description": "With Terminus, B2B professionals can easily start and scale account based marketing programs to increase revenue, improve reporting & beat the competition."
+  },
+  "top_producer": {
+    "name": "Top Producer",
+    "site": "topproducer.com",
+    "description": "Manage clients with real estate CRM and software from Top Producer®. This complete follow-up system helps you maximize repeat & referral business and more."
+  },
+  "totango": {
+    "name": "Totango",
+    "site": "totango.com",
+    "description": "Totango is Customer Success Software. We help enterprises drive revenue growth, reduce churn while focusing on the SaaS customer journey. Experience Totango."
+  },
+  "tout": {
+    "name": "Tout",
+    "site": "https://www.marketo.com/software/marketo-sales-connect/",
+    "description": "Marketo, Inc. is an American software company, headquartered in San Mateo, CA."
+  },
+  "towerdata": {
+    "name": "TowerData",
+    "site": "https://www.towerdata.com/",
+    "description": "RapLeaf was a US-based marketing data and software company, which was acquired by email data provider TowerData in 2013."
+  },
+  "track_js": {
+    "name": "Track JS",
+    "site": "trackjs.com",
+    "description": "TrackJS monitors your users for JavaScript errors and reports them to you with all the context you need to understand the impact and fix bugs fast."
+  },
+  "triblio": {
+    "name": "Triblio",
+    "site": "triblio.com",
+    "description": "Triblio's account-based marketing platform runs ad, web, and sales campaigns so that marketers can scale 1:1 account targeting for pipeline impact. Talk to an expert today to get started."
+  },
+  "tripleseat": {
+    "name": "Tripleseat",
+    "site": "tripleseat.com",
+    "description": "Tripleseat is the ideal event management solution for owners and managers of restaurants, banquet facilities, and catering operations."
+  },
+  "trustpilot": {
+    "name": "Trustpilot",
+    "site": "trustpilot.com",
+    "description": "Trustpilot.com is a consumer review website founded in Denmark in 2007 which hosts reviews of businesses worldwide."
+  },
+  "twitter_advertiser": {
+    "name": "Twitter Advertiser",
+    "site": "ads.twitter.com",
+    "description": "Twitter is an American microblogging and social networking service on which users post and interact with messages known as \"tweets\"."
+  },
+  "typeform": {
+    "name": "Typeform",
+    "site": "typeform.com",
+    "description": "Typeform is a Barcelona-based online software as a service company that specializes in online form building and online surveys."
+  },
+  "typekit_by_adobe": {
+    "name": "Typekit By Adobe",
+    "site": "https://fonts.adobe.com",
+    "description": "Adobe Inc. is an American multinational computer software company headquartered in San Jose, California."
+  },
+  "uber_cart": {
+    "name": "Uber Cart",
+    "site": "https://www.drupal.org/project/ubercart",
+    "description": "The Drupal Association is an educational non-profit organization that tasks itself with fostering and supporting the Drupal software project, the community and its growth."
+  },
+  "ubuntu": {
+    "name": "Ubuntu",
+    "site": "ubuntu.com",
+    "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things."
+  },
+  "ultipro": {
+    "name": "Ultipro",
+    "site": "https://www.ultimatesoftware.com/UltiPro-Services",
+    "description": "Ultipro Software is an American technology company that develops and sells UltiPro, a cloud-based human capital management software system for businesses."
+  },
+  "unbxd": {
+    "name": "Unbxd",
+    "site": "https://unbxd.com/",
+    "description": "Delight your customers by delivering a personalised, relevant and superior shopping experience! Get a data-driven boost to your online sales."
+  },
+  "unix": {
+    "name": "Unix",
+    "site": "unix.com",
+    "description": "Linux and UNIX shell scripting, system administration and programming help. Ask awk, bash, csh, ksh, perl, php, python, sed, sh, shell scripts, and other scripting languages and Linux, Unix system administration questions here."
+  },
+  "uptrends": {
+    "name": "Uptrends",
+    "site": "uptrends.com",
+    "description": "Monitor website uptime, optimize performance and monitor multiple steps from 180+ locations, incl. alerts. Free & paid website monitoring services."
+  },
+  "user_voice": {
+    "name": "UserVoice",
+    "site": "uservoice.com",
+    "description": "UserVoice is a San Francisco based Software-as-a-Service company creating customer engagement tools."
+  },
+  "vero": {
+    "name": "Vero",
+    "site": "https://www.getvero.com/",
+    "description": "Email and push messaging platform that helps you create customer messaging experiences that drive engagement and grow your business."
+  },
+  "verticalresponse": {
+    "name": "Verticalresponse",
+    "site": "verticalresponse.com",
+    "description": "VerticalResponse, Inc. is an American company providing software for sending email marketing, online surveys and direct mail for direct marketing campaigns."
+  },
+  "videojs": {
+    "name": "Video.js",
+    "site": "videojs.com",
+    "description": "Make your player yours with the internet's most popular open source video player framework"
+  },
+  "vidyard": {
+    "name": "Vidyard",
+    "site": "vidyard.com",
+    "description": "Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance."
+  },
+  "vimeo": {
+    "name": "Vimeo",
+    "site": "vimeo.com",
+    "description": "Vimeo is an ad-free video platform headquartered in New York City, providing free video viewing services as a competitor to YouTube."
+  },
+  "virtue_mart": {
+    "name": "Virtue Mart",
+    "site": "virtuemart.net",
+    "description": "VirtueMart: Free e-commerce solution for the people; Free online shop"
+  },
+  "visual_iq": {
+    "name": "Visual IQ",
+    "site": "https://marketingeffectiveness.nielsen.com/",
+    "description": "Nielsen Holdings Plc is an American information, data and measurement firm."
+  },
+  "visual_website_optimizer": {
+    "name": "Visual Website Optimizer",
+    "site": "https://vwo.com/",
+    "description": "VWO helps optimize customer experience, thereby increasing conversions & sales through visitor behavior analysis, experimentation & customer re-engagement."
+  },
+  "volusion": {
+    "name": "Volusion",
+    "site": "volusion.com",
+    "description": "Create your online store w/ a FREE 14-day trial of our award-winning ecommerce software. Shown to sell 4x more than other hosted shopping carts!"
+  },
+  "vzaar": {
+    "name": "Vzaar",
+    "site": "https://www.dacast.com/",
+    "description": "Dacast Inc. Unlike consumer oriented platforms such as YouTube or Facebook Live, Dacast is business-to-business."
+  },
+  "webengage": {
+    "name": "WebEngage",
+    "site": "webengage.com",
+    "description": "WebEngage® enables business to engage their users over Mobile Push Notifications, In-app Messages, Email, SMS, Web Push Notifications and more!"
+  },
+  "weebly": {
+    "name": "Weebly",
+    "site": "weebly.com",
+    "description": "Weebly is a web hosting service specifically oriented for online shopping, headquartered in San Francisco."
+  },
+  "wistia": {
+    "name": "Wistia",
+    "site": "wistia.com",
+    "description": "Wistia Inc. is a video-software company located in Cambridge, Massachusetts."
+  },
+  "wix_stores": {
+    "name": "Wix Stores",
+    "site": "wix.com",
+    "description": "Wix.com Ltd. is a cloud-based web development platform that was first developed and popularised by the Israeli company also called Wix."
+  },
+  "woo_commerce": {
+    "name": "Woo Commerce",
+    "site": "woocommerce.com",
+    "description": "WooCommerce is an open-source e-commerce plugin for WordPress."
+  },
+  "woopra": {
+    "name": "Woopra",
+    "site": "woopra.com",
+    "description": "The platform is designed to help organizations optimize the customer life-cycle by delivering live, granular behavioral data for individual website visitors and customers."
+  },
+  "wootric": {
+    "name": "Wootric",
+    "site": "wootric.com",
+    "description": "Wootric is the modern experience management software for the CX champion. Understand the customer journey with Net Promoter Score℠ (NPS), CSAT and Customer Effort Score metrics. Let machine learning surface insights from qualitative comments. Win custo..."
+  },
+  "wordpress": {
+    "name": "Wordpress",
+    "site": "wordpress.com",
+    "description": "Wordpress.com is a blogging platform that is owned and hosted online by Automattic."
+  },
+  "workable": {
+    "name": "Workable",
+    "site": "workable.com",
+    "description": "More than an Applicant Tracking System, Workable's Recruiting Software improves the way teams find, evaluate and hire candidates."
+  },
+  "wp_engine": {
+    "name": "Wp Engine",
+    "site": "wpengine.com",
+    "description": "WP Engine provides managed WordPress hosting for mission critical sites around the world. Amazing support, enterprise class, & optimized for WordPress."
+  },
+  "wufoo": {
+    "name": "Wufoo",
+    "site": "wufoo.com",
+    "description": "Wufoo's online form builder helps you create custom HTML forms without writing code. Use our online form creator to build contact forms, surveys, event registrations, and more. Sign up free!"
+  },
+  "yahoo_stores": {
+    "name": "Yahoo Stores",
+    "site": "https://smallbusiness.yahoo.com/stores",
+    "description": "Yahoo! is an American web services provider headquartered in Sunnyvale, California, and owned by Verizon Media."
+  },
+  "yandex_metrica": {
+    "name": "Yandex Metrica",
+    "site": "https://metrica.yandex.com/about",
+    "description": "Yandex NV is a Russian multinational corporation specializing in Internet-related products and services, including transportation, search and information services, eCommerce, navigation, mobile applications, and online advertising."
+  },
+  "yelp_seatme": {
+    "name": "Yelp Seatme",
+    "site": "https://www.yelpreservations.com/",
+    "description": "Yelp Reservations offers restaurants a cost-effective, online reservation management system. Save time, save money, and forget about open tables!"
+  },
+  "yesware": {
+    "name": "Yesware",
+    "site": "yesware.com",
+    "description": "Yesware helps build lasting business relationships, right from your inbox. A sales engagement platform designed for sales professionals and account managers."
+  },
+  "yieldify": {
+    "name": "Yieldify",
+    "site": "yieldify.com",
+    "description": "Discover Yieldify's CRO platform & customer journey tools, to boost ecommerce conversion. Includes behavioral segmentation & website personalization. Book demo!"
+  },
+  "yotpo": {
+    "name": "Yotpo",
+    "site": "yotpo.com",
+    "description": "Yotpo is a eCommerce marketing platform with the most advanced solutions for customer reviews, visual marketing, loyalty, and referrals. Find out more about how your brand can drive growth with Yotpo here."
+  },
+  "youtube": {
+    "name": "Youtube",
+    "site": "youtube.com",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+  },
+  "zaius": {
+    "name": "Zaius",
+    "site": "zaius.com",
+    "description": "The Zaius B2C CRM combines the visibility of a Customer Data Platform (CDP), the functionality of an Email Service Provider (ESP), and deep data science."
+  },
+  "zeit_now": {
+    "name": "Zeit Now",
+    "site": "https://zeit.co/",
+    "description": "ZEIT is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and global CDN."
+  },
+  "zen_cart": {
+    "name": "Zen Cart",
+    "site": "https://www.zen-cart.com/",
+    "description": null
+  },
+  "zendesk": {
+    "name": "Zendesk",
+    "site": "zendesk.com",
+    "description": "Zendesk Inc. is a customer service software company headquartered in San Francisco, California, USA."
+  },
+  "zeniq": {
+    "name": "ZenIQ",
+    "site": "https://6sense.com/",
+    "description": "Uncover, prioritize and engage with demand on the 6sense Account Based Orchestration Platform, powered by AI."
+  },
+  "zenreach": {
+    "name": "Zenreach",
+    "site": "zenreach.com",
+    "description": "Zenreach is an American technology company based in San Francisco."
+  },
+  "zopim": {
+    "name": "Zopim",
+    "site": "zendesk.com",
+    "description": "Zendesk Inc. is a customer service software company headquartered in San Francisco, California, USA."
+  },
+  "zuora": {
+    "name": "Zuora",
+    "site": "zuora.com",
+    "description": "Zuora is an enterprise software company that creates and provides software for businesses to launch and manage their subscription-based services."
+  },
+  "zype": {
+    "name": "Zype",
+    "site": "zype.com",
+    "description": "Zype is the enterprise video content management system that enables organization to distribute video everywhere."
+  }
+}

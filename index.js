@@ -1,5 +1,6 @@
 const axios = require('axios');
 const helpers = require('./helpers');
+const jsonData = require('./tech-with-description.json')
 
 // main
 async function fetchJobs(company) {
@@ -58,10 +59,29 @@ async function fetchLeverJobs(company){
   }
 }
 
-module.exports = async function main(company){
+async function jobs(company){
   if(!company || company.length <= 0 || typeof company !== "string"){
     throw new TypeError("not a string")
   }
 
   return await fetchJobs(company);
 }
+
+function getTechTags(techTagsArr) {
+  if(!Array.isArray(techTagsArr)){
+    throw new TypeError("not an array")
+  }
+
+  const mappedTech = [];
+
+  techTagsArr.forEach(tech => {
+    mappedTech.push(jsonData[tech]);
+  })
+
+  return mappedTech;
+}
+
+module.exports = {
+  jobs,
+  getTechTags
+};
